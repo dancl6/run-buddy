@@ -11,8 +11,8 @@
     font-size: 42px;
     font-style: italic;     
     border-bottom: 4px;
-    border-style: solid;
-    color: #fce138;
+    border-bottom-style: solid;
+
     padding: 0 80px 15px 80px;
     display: inline-block;
 }
